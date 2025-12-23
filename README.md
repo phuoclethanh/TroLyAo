@@ -69,7 +69,7 @@ LANGCHAIN_API_KEY=lsv2-xxxxxxxxxxxxxxxxxxxxxxx
 
 - Xem danh sách:
 
-Kiểm tra lịch trình của tôi.
+"Kiểm tra lịch trình của tôi.""
 -  Thoát:
 "quit"
 
