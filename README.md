@@ -66,9 +66,7 @@ LANGCHAIN_API_KEY=lsv2-xxxxxxxxxxxxxxxxxxxxxxx
 - Đặt báo thức (Nhắc việc chủ động):
 "Nhắc tôi uống thuốc sau 2 phút nữa."
 (Chờ 2 phút và quan sát Terminal tự động hiện thông báo)
-
 - Xem danh sách:
-
 "Kiểm tra lịch trình của tôi.""
 -  Thoát:
 "quit"
