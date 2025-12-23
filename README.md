@@ -37,10 +37,10 @@ Dự án khuyến nghị chạy trên **Virtual Environment (venv)** để trán
 
 - python -m venv venv
 ### Bước 2: Kích hoạt môi trường
-Windows (CMD / PowerShell):
+#### Windows (CMD / PowerShell):
 
 - .\venv\Scripts\activate
-macOS / Linux:
+#### macOS / Linux:
 - source venv/bin/activate
 Dấu hiệu thành công: (venv) xuất hiện ở đầu dòng lệnh.
 
